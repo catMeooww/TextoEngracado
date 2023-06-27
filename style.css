@@ -1,0 +1,20 @@
+.heading{
+    font-size: 23px;
+    box-shadow: 5px 5px 5px gray;
+}
+.note{
+    font-size: 15px;
+}
+.copyrightFooter{
+    color: antiquewhite;
+    background-color: cadetblue;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+canvas{
+    background-color: white;
+    border-radius: 20px;
+    border-style: ridge;
+    border-color: orange;
+}
